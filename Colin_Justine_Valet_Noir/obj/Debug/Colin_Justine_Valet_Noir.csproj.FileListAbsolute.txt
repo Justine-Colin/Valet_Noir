@@ -1,0 +1,13 @@
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.csproj.CoreCompileInputs.cache
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\bin\Debug\Colin_Justine_Valet_Noir.exe.config
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\bin\Debug\Colin_Justine_Valet_Noir.exe
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\bin\Debug\Colin_Justine_Valet_Noir.pdb
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.exe
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.pdb
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.Accueil.resources
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.Properties.Resources.resources
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.Splash.resources
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.csproj.GenerateResource.Cache
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.Ecran_Jeu.resources
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.csprojAssemblyReference.cache
+D:\IS2\Colin_Justine_Valet_Noir\Colin_Justine_Valet_Noir\obj\Debug\Colin_Justine_Valet_Noir.Aide.resources
